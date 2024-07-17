@@ -1,3 +1,7 @@
+# My reactjs template (typescript)
+
+- Code structure: duck pattern
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
