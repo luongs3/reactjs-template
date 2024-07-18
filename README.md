@@ -1,6 +1,24 @@
 # My reactjs template (typescript)
 
-- Code structure: duck pattern
+- Code structure: duck
+- Included dependencies: react-router, material ui, axios, jest
+- React Router: For routing.
+- State Management: no
+- Form Handling: no
+- UI Libraries: Material-UI
+- Utility Libraries: Lodash, date-fns.
+- HTTP Client: Axios.
+- Styling: Emotion and SASS
+- Testing: Jest
+
+## Script
+
+```
+yarn create create-react-app project_name --template typescript
+cd project_name
+yarn add react-router-dom @mui/material @emotion/react @emotion/styled
+yarn add --dev @types/react-router-dom
+```
 
 # Getting Started with Create React App
 
